@@ -1,0 +1,6 @@
+[INFO][2018-04-25 10:40:09][Class = org.activiti.engine.ProcessEngines | Method = init | LineNum = 97] | Initializing process engine using configuration 'file:/E:/projectBench/ActivitiDeveloperQuickStart/target/classes/activiti.cfg.xml' |
+[INFO][2018-04-25 10:40:09][Class = org.activiti.engine.ProcessEngines | Method = initProcessEnginFromResource | LineNum = 166] | initializing process engine for resource file:/E:/projectBench/ActivitiDeveloperQuickStart/target/classes/activiti.cfg.xml |
+[INFO][2018-04-25 10:40:09][Class = org.springframework.beans.factory.xml.XmlBeanDefinitionReader | Method = loadBeanDefinitions | LineNum = 317] | Loading XML bean definitions from InputStream resource [resource loaded through InputStream] |
+[INFO][2018-04-25 10:40:10][Class = org.springframework.jdbc.datasource.DriverManagerDataSource | Method = setDriverClassName | LineNum = 133] | Loaded JDBC driver: com.mysql.cj.jdbc.Driver |
+[INFO][2018-04-25 10:40:13][Class = org.activiti.engine.impl.ProcessEngineImpl | Method = <init> | LineNum = 85] | ProcessEngine default created |
+[INFO][2018-04-25 10:40:13][Class = org.activiti.engine.ProcessEngines | Method = initProcessEnginFromResource | LineNum = 169] | initialised process engine default |
